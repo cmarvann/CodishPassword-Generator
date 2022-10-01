@@ -1,5 +1,7 @@
 # CodishPassword-Generator
 
+Module 3
+
 Create an application that generates a random password that  runs in the browser and features dynamically updated HTML and CSS powered by your JavaScript code. Present a clean and polished responsive user interface. Provide a the URL for the deployed application and the URL for the Github Repository.
 
 
